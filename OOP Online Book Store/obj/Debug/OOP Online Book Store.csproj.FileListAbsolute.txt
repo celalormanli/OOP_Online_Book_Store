@@ -6,3 +6,6 @@ C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP
 C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP Online Book Store\obj\Debug\OOP Online Book Store.csproj.GenerateResource.Cache
 C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP Online Book Store\obj\Debug\OOP Online Book Store.exe
 C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP Online Book Store\obj\Debug\OOP Online Book Store.pdb
+C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP Online Book Store\obj\Debug\OOP_Online_Book_Store.Form1.resources
+C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP Online Book Store\obj\Debug\OOP_Online_Book_Store.Form2.resources
+C:\Users\ROJAZAD\Documents\Visual Studio 2015\Projects\OOP Online Book Store\OOP Online Book Store\obj\Debug\OOP_Online_Book_Store.Form3.resources
